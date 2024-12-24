@@ -1,2 +1,2 @@
-# skoutz_shops_location
+# Skroutz shops location
 A Python script to extract Skroutz shops' locations
